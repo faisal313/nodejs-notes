@@ -52,7 +52,7 @@ there are core module like:
 
 to use them, you will call them in a variable (mostly they will be constants, whose value can be re-assigned)
 
-```java
+```javascript
 const path = require('path');
 ```
 
